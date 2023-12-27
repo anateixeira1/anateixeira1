@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anateixeira1.
-- 👀 I’m interested in Full-Stack development.
-- 🌱 I’m currently learning JavaScript, Python, HTML and CSS.
-- 💞️ I’m looking to collaborate on full-stack projects.
+- 👀 I’m interested in Front-End development.
+- 🌱 I’m currently learning JavaScript, React, HTML and CSS.
+- 💞️ I’m looking to collaborate on front-end projects.
 
 
 <!---
